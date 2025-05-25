@@ -1,0 +1,4 @@
+datasets==2.12.0
+gradio==3.28.3
+torch
+transformers==4.28.1
